@@ -20,5 +20,5 @@
 ## 🚀 Projects
 - [Calor Stiches](https://calorstiches.vercel.app/)
 
-## 📈 Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codthathing&show_icons=true)
+<!-- ## 📈 Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codthathing&show_icons=true) -->
