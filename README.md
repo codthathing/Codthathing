@@ -3,13 +3,13 @@
 🌟 **Frontend Engineer** passionate about building awesome web applications.
 
 <!-- - 🔭 I’m currently working on [](#)   -->
-- 🌱 I’m learning advanced React techniques and also exploring JavaScript on a deeper level.  
-- 🌱 I’m also learning Data Structures and Algorithms and I have solved 10+ LeetCode Questions.  
-- 🌱 I’m expanding my knowledge on C, Python, and Java programming languages.  
-- 👯 I’m looking to collaborate on open-source projects.  
-- 💬 Ask me about React, or problem-solving in development.  
+- 🌱 I’m currently learning NextJs and other modern technologies.  
+- 📑 Practicing Data Structures and Algorithms and I have solved 10+ LeetCode Questions.  
+- 💪🏾 Building projects while also exploring the concept of Object Oriented Programming (OOP).  
+- 👯 I’m open to collaborate on open-source projects, gigs, and programming roles.  
+- 💬 Feel free to chat me up about Web Development, Programming, and Football.  
 - 📫 How to reach me: [Akinwunmi Oluwasegun](mailto:akinwunmiolusegun277@gmail.com)  
-- ⚡ Fun fact: I enjoy creating real-world projects from simple ideas!
+- ⚡ Fun fact: I love watching football⚽, like that's life!
 
 ## 🔗 Portfolio, Resume, and Socials
 - [My portfolio](https://codthathing-dev.vercel.app/)
