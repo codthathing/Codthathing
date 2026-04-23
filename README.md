@@ -13,7 +13,7 @@
 
 ## 🔗 Portfolio, Resume, and Socials
 - [My portfolio](https://codthathing.vercel.app/)
-- [My resume](https://drive.google.com/file/d/123JNIZ1gjbmmxOsxqINALMBXf9aWe8gy/view?usp=drive_link)
+- [My resume](https://drive.google.com/file/d/1p1q8ERGUWcKtgDDZms_QZSwP-gf_HRUz/view?usp=drive_link)
 - [My linkedIn](https://www.linkedin.com/in/codthathing/)
 - [My leetcode](https://leetcode.com/u/codthathing/)
 
