@@ -12,8 +12,8 @@
 - ⚡ Fun fact: I love watching football⚽, like that's life!
 
 ## 🔗 Portfolio, Resume, and Socials
-- [My portfolio](https://codthathing.vercel.app/)
-- [My resume](https://drive.google.com/file/d/1p1q8ERGUWcKtgDDZms_QZSwP-gf_HRUz/view?usp=drive_link)
+- [My portfolio](https://codthathing.me/)
+- [My resume](https://drive.google.com/file/d/1TXXPSCal4Z5itm7UErxqacHpbnzsSGQp/view?usp=drive_link)
 - [My linkedIn](https://www.linkedin.com/in/codthathing/)
 - [My leetcode](https://leetcode.com/u/codthathing/)
 
